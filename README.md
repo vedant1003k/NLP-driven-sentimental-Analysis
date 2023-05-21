@@ -7,8 +7,15 @@ features, and uses them to create a feature set for each review. The Naive Bayes
 set. Finally, the trained classifier is saved to a file using Python's pickle module.
 
 
-## Build (Windows)
+## Clone The Projetc 
+ 
+# SSH
 
 ```bash
   git clone git@github.com:vedant1003k/sentiment-analysis-of-movie-reviews.git
+```
+# HTTP
+
+```bash
+git clone https://github.com/vedant1003k/sentiment-analysis-of-movie-reviews.git
 ```

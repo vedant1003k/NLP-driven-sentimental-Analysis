@@ -7,7 +7,7 @@ features, and uses them to create a feature set for each review. The Naive Bayes
 set. Finally, the trained classifier is saved to a file using Python's pickle module.
 
 
-## Clone The Projetc 
+## Clone The Project 
  
 # SSH
 

@@ -8,14 +8,6 @@ set. Finally, the trained classifier is saved to a file using Python's pickle mo
 
 
 ## Clone The Project 
- 
-## SSH
-
 ```bash
-  git clone git@github.com:vedant1003k/sentiment-analysis-of-movie-reviews.git
-```
-## HTTP
-
-```bash
-git clone https://github.com/vedant1003k/sentiment-analysis-of-movie-reviews.git
+git clone https://github.com/vedant1003k/sentiment-analysis-of-movie-reviews.gita
 ```
